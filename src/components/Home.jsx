@@ -48,7 +48,7 @@ const Home = () => {
             </div>
             <div className="space-y-2">
                 <h1 className="font-bold md:text-left text-center">Currently working on</h1>
-                <ul className="flex space-x-5">
+                <ul className="flex space-x-5 md:items-left md:justify-left items-center justify-center">
                 <li><SiMongodb className="text-xl md:text-3xl hover:scale-110 duretion-200 rounded-full border-[2px] cursor-pointer"/></li>
                 <li><SiExpress className="text-xl md:text-3xl hover:scale-110 duretion-200 rounded-full border-[2px] cursor-pointer"/></li>
                 <li><FaReact className="text-xl md:text-3xl hover:scale-110 duretion-200 rounded-full border-[2px] cursor-pointer"/></li>
