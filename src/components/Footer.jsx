@@ -16,8 +16,8 @@ function Footer() {
             <FaWhatsapp size={24}/>
         </div>
         <div className='mt-8 border-t border-gray-700 pt-8 flex flex-col items-center'>
-            <p className="text-sm">&copy; 2024 Your Company. All rights reserved.</p>
-            <p className="text-sm">Supportive Partner ❤️ Ankush</p>
+            <p className="text-sm">&copy; 2024 Gaurav Rathore All rights reserved.</p>
+            <p className="text-sm">Supportive Partner ❤️ Self</p>
         </div>
       </div>
     </div>
